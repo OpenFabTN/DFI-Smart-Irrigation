@@ -1,6 +1,9 @@
-# DFI-Smart-Irrigation
+# Arduino Smart Irrigation
+Quick Links:
+Arduino based smart irrigation system developed by [ESIM students](https://www.facebook.com/pg/dreamforinnovationclub/about/) in collobration with [OpenFab Tunia](https://openfab.tn)
 
-Arduino based Smart Irrigation System developed by ESIM students in collobration with OpenFab Tuniia
+# Demo 
+Under development
 
 # BOM
 ## Development Board
@@ -23,3 +26,8 @@ Arduino based Smart Irrigation System developed by ESIM students in collobration
 - N-Channel MOSFET 60V 30A
 - LCD Display 16x2
 - Rotary Potentiometer - 10k Ohm, Linear
+
+# Contributing
+## Software
+### Arduino dependencies
+### Hardware Connections
