@@ -14,6 +14,11 @@ Arduino based Smart Irrigation System developed by ESIM students in collobration
 - Water Level Sensor Module
 - Reed Switch
 
+## Actuators
+- Submersible Pool Water Pump
+- 
 
 ## Other components 
 - Arduino RTC Clock
+- N-Channel MOSFET 60V 30A
+
