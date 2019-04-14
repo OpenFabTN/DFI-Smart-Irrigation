@@ -3,7 +3,7 @@
 Arduino based Smart Irrigation System developed by ESIM students in collobration with OpenFab Tuniia
 
 # BOM
-# Dev Board
+## Dev Board
 - Arduino Mega 2560 R3
 
 ## Sensors
